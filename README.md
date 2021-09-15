@@ -18,5 +18,3 @@ Discord: Nara#0001
 ![TS](https://img.shields.io/badge/-ts-000000?style=for-the-badge&logo=typescript&logoColor=00acd7)
 
 <hr>
-
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
